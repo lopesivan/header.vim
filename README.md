@@ -1,2 +1,2 @@
-# header.vim
-cansi header syntax on
+# hp50g.vim
+hp50g syntax files
